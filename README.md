@@ -62,7 +62,7 @@ npm run test
 ---
 
 ### 5. 🗂 Project Structure
-
+```bash
 .
 ├── src/
 │ └── merge-sort.ts
@@ -72,5 +72,5 @@ npm run test
 ├── dist/
 ├── package.json
 └── tsconfig.json
-
+```
 ---
