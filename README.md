@@ -12,7 +12,8 @@ This TypeScript project implements a function that merges three arrays into a si
 - `collection_2` and `collection_3` are sorted in **ascending** order (with values ≥ 0)
 - The output is a new array sorted in **ascending** order
 - 🔥 No built-in `Array.prototype.sort()` is used in the merging logic
-- User can edit `test-data.ts` file to provide specific arrays; otherwise, the code generates random values (0-20) of random length (5-10)
+- User can edit `test-data.ts` file to provide specific arrays;
+- otherwise, the code generates random values (0-20) of random length (5-10)
 
 ---
 
@@ -22,6 +23,11 @@ This TypeScript project implements a function that merges three arrays into a si
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 - Optional (for development):
   - VS Code with ESLint & Prettier extensions
+- Pull code 
+  - ```bash
+    git clone https://github.com/Sirendra/Merge-sort.git
+    cd Merge-sort/
+    ```
 
 ---
 
